@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844746564958",
+    "project_id": "celphoneapp-cc74c",
+    "storage_bucket": "celphoneapp-cc74c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844746564958:android:60ece1b406ecb03de81bcf",
+        "android_client_info": {
+          "package_name": "com.karina.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844746564958-gppjqphs03lvotfv54gkk5n3uq2oas9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPI44jqt9Ei_tlQ3JZUUG920tgpUtW28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844746564958-gppjqphs03lvotfv54gkk5n3uq2oas9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

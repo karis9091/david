@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="P1">#7b7cff</color>
+    <color name="P2">#0026ca</color>
+    <color name="P3">#304fff</color>
+
+    <!-- Secundarios -->
+    <color name="S1">#9c4dcc</color>
+    <color name="S2">#38006b</color>
+    <color name="S3">#6a1b9a</color>
+    <!-- Basico -->
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
